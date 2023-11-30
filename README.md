@@ -13,6 +13,8 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Missing Number
   - [accumulate and plus](/src/Missing_Number_plus.cpp)
   - [accumulate and xor](/src/Missing_Number_xor.cpp)
+- Repetitions
+  - [Two pointers](/src/Repetitions_two_pointers.cpp)
 - Creating Strings
   - [Backtracking](/src/Creating_Strings_backtracking.cpp)
   - [next_permutation](/src/Creating_Strings_next_permutation.cpp)
