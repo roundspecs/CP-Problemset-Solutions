@@ -15,6 +15,12 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
   - [accumulate and xor](/src/Missing_Number_xor.cpp)
 - Repetitions
   - [Two pointers](/src/Repetitions_two_pointers.cpp)
+- Increasing Array
+  - [Solution](/src/Increasing_Array.cpp)
+- Permutations
+  - [Solution](/src/Permutations.cpp)
+- Number Spiral
+  - [Solution](/src/Number_Spiral.cpp)
 - Creating Strings
   - [Backtracking](/src/Creating_Strings_backtracking.cpp)
   - [next_permutation](/src/Creating_Strings_next_permutation.cpp)
