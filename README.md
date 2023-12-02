@@ -11,7 +11,7 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Weird Algorithm
   - [Solution](/src/Weird_Algorithm.cpp)
   - Additional resources:
-    - 1.3 CSES Problem Set
+    - 1.3 CSES Problem Set - Guide to CP
 - Missing Number
   - [accumulate and plus](/src/Missing_Number_plus.cpp)
   - [accumulate and xor](/src/Missing_Number_xor.cpp)
@@ -22,7 +22,7 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Permutations
   - [Solution](/src/Permutations.cpp)
   - Additional resources
-    - 2.2.2 Generating Permutations
+    - 2.2.2 Generating Permutations - Guide to CP
 - Number Spiral
   - [Solution](/src/Number_Spiral.cpp)
 - Two Knights
@@ -32,8 +32,8 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Bit Strings
   - [Solution](/src/Bit_Strings.cpp)
   - Additional resources
-    - 2.1.2 Working with Numbers
-    - 2.3 Bit Manipulation
+    - 2.1.2 Working with Numbers - Guide to CP
+    - 2.3 Bit Manipulation - Guide to CP
 - Trailing Zeros
   - [Solution](/src/Trailing_Zeros.cpp)
 - Coin Piles
@@ -43,7 +43,7 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Gray Code
   - [Solution](/src/Gray_Code.cpp)
   - Additional resources
-    - 2.3 Bit Manipulation
+    - 2.3 Bit Manipulation - Guide to CP
 - Creating Strings
   - [Backtracking](/src/Creating_Strings_backtracking.cpp)
   - [next_permutation](/src/Creating_Strings_next_permutation.cpp)
