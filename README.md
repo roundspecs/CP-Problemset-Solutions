@@ -44,6 +44,7 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
   - [Solution](/src/Gray_Code.cpp)
   - Additional resources
     - 2.3 Bit Manipulation - Guide to CP
+    - For fun: [Why use Gray code for an optical shaft encoder? - YouTube](https://youtu.be/W730NOJYXAI)
 - Creating Strings
   - [Backtracking](/src/Creating_Strings_backtracking.cpp)
   - [next_permutation](/src/Creating_Strings_next_permutation.cpp)
