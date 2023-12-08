@@ -9,6 +9,6 @@ int main() {
     for(int j=b.size()-1; j>=0; j--)
       b.push_back(b[j] | (1<<i));
   for(auto&x:b) {
-    cout<<bitset<16>(x).to_string().substr(16-n,n)<<"\n";
+    cout<<bitset<16>(x).to_string().substr(16-n)<<"\n";
   }
 }

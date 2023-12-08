@@ -15,8 +15,12 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Missing Number
   - [accumulate and plus](/src/Missing_Number_plus.cpp)
   - [accumulate and xor](/src/Missing_Number_xor.cpp)
+  - Additional resource:
+    - [XOR Sum of natural numbers upto n - GFG](https://www.geeksforgeeks.org/calculate-xor-1-n/)
 - Repetitions
   - [Two pointers](/src/Repetitions_two_pointers.cpp)
+  - Additional resource:
+    - [Two Pointers - USACO](https://usaco.guide/silver/two-pointers?lang=cpp)
 - Increasing Array
   - [Solution](/src/Increasing_Array.cpp)
 - Permutations
@@ -41,7 +45,8 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Palindrome Reorder
   - [Solution](/src/Palindrome_Reorder.cpp)
 - Gray Code
-  - [Solution](/src/Gray_Code.cpp)
+  - [Reflext and Prefix](/src/Gray_Code_reflect_and_prefix.cpp)
+  - [Bitwise] (TODO)
   - Additional resources
     - 2.3 Bit Manipulation - Guide to CP
     - For fun: [Why use Gray code for an optical shaft encoder? - YouTube](https://youtu.be/W730NOJYXAI)
