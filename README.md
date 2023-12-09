@@ -5,6 +5,7 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 <!-- omit from toc -->
 ## Table of Contents 
 - [Introductory Problems](#introductory-problems)
+- [Sorting and Searching](#sorting-and-searching)
 
 
 ### Introductory Problems
@@ -53,3 +54,9 @@ No more template clutter—just concise, efficient, and beautifully crafted solu
 - Creating Strings
   - [Backtracking](/src/Creating_Strings_backtracking.cpp)
   - [next_permutation](/src/Creating_Strings_next_permutation.cpp)
+
+### Sorting and Searching
+- Distinct Numbers
+  - [Two pointers](/src/Distinct_Numbers_two_pointers.cpp)
+  - [Set](/src/Distinct_Numbers_set.cpp)
+  - [Unique](/src/Distinct_Numbers_unique.cpp)
