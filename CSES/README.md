@@ -41,7 +41,7 @@
 - Trailing Zeros
   - [Solution](src/Trailing_Zeros.cpp)
 - Coin Piles
-  - [Solution](src/Trailing_Zeros.cpp)
+  - [Solution](src/Coin_Piles.cpp)
 - Palindrome Reorder
   - [Solution](src/Palindrome_Reorder.cpp)
 - Gray Code
