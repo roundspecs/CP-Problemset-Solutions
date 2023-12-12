@@ -21,3 +21,9 @@
 - [Shopaholic – shopaholic](src/shopaholic.cpp)
 - [Busy Schedule – busyschedule](src/busyschedule.cpp)
 - [Sort of Sorting – sortofsorting](src/sortofsorting.cpp)
+
+### Exercise 3.9 — Kattis Exercises
+- [Veci – veci](src/veci.cpp)
+
+### Exercise 4.1 — Kattis Exercise
+- [Game Rank – gamerank](src/gamerank.cpp)
