@@ -6,7 +6,7 @@
 - [Principles of Algorithmic Problem Solving](#principles-of-algorithmic-problem-solving)
 
 ### Exercise 2.16
-- [Aaah! – aaah](src/aaah_tab_submissions.cpp)
+- [Aaah! – aaah](src/aaah.cpp)
 - [Quadrant Selection – quadrant](src/quadrant.cpp)
 - [Take Two Stones – twostones](src/twostones.cpp)
 - [Spavanac – spavanac](src/spavanac.cpp)
@@ -16,3 +16,8 @@
 - [FizzBuzz – fizzbuzz](src/fizzbuzz.cpp)
 - [Cold-puter Science – cold](src/cold.cpp)
 - [Tarifa – tarifa](src/tarifa.cpp)
+
+### Exercise 3.8 — Kattis Exercises
+- [Shopaholic – shopaholic](src/shopaholic.cpp)
+- [Busy Schedule – busyschedule](src/busyschedule.cpp)
+- [Sort of Sorting – sortofsorting](src/sortofsorting.cpp)
